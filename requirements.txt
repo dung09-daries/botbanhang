@@ -1,3 +1,6 @@
 pyTelegramBotAPI
-payos
 flask
+requests
+payos
+gunicorn
+python-dotenv
