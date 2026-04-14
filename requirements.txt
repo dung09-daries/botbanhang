@@ -4,3 +4,4 @@ requests
 payos
 gunicorn
 python-dotenv
+pymongo
